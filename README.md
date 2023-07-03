@@ -1,5 +1,3 @@
-# EnglishPortfolio
-
 # Data Science Portfolio
 
 Welcome to my Data Science portfolio! Here, you will find a collection of model implementations and data analyses done using Python files, Jupyter notebooks, and Excel. Each project is carefully annotated to provide you with a deep understanding of the methods and results.
